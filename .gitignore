@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente Virtual (NUNCA envie isso)
+venv/
+.venv/
+env/
+
+# Variáveis de Ambiente (Segurança)
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Banco de dados local (se houver)
+*.sqlite3
+
+# Logs
+*.log

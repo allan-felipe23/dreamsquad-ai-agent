@@ -1,10 +1,6 @@
-
------
-
 ### 📄 Arquivo `README.md`
 
-````markdown
-# 🤖 DreamSquad AI Agent
+#🤖 DreamSquad AI Agent
 
 > **Status:** Concluído 🚀 | **Stack:** FastAPI + Streamlit + Strands Agents + Llama 3.1
 

@@ -1,6 +1,4 @@
-### 📄 Arquivo `README.md`
-
-#🤖 DreamSquad AI Agent
+# 🤖 DreamSquad AI Agent
 
 > **Status:** Concluído 🚀 | **Stack:** FastAPI + Streamlit + Strands Agents + Llama 3.1
 
@@ -53,7 +51,7 @@ Clone o repositório e instale as dependências:
 ```bash
 # Clone o projeto
 git clone https://github.com/allan-felipe23/dreamsquad-ai-agent.git
-cd desafio-dreamsquad
+cd dreamsquad-ai-agent
 
 # Crie o ambiente virtual
 python -m venv venv
@@ -115,4 +113,11 @@ pytest
 
 -----
 
-Desenvolvido por **Allan Borges** para o desafio **DreamSquad**.
+### 📸 Experiência do Usuário
+
+<img width="1916" height="969" alt="Captura de tela 2025-11-30 090402" src="https://github.com/user-attachments/assets/b9b8816c-bbd0-40a7-9595-c4f6b9337fd3" />
+
+-----
+
+### 💻 Desenvolvido por **Allan Borges** para o desafio **DreamSquad**. [Meu LinkedIn](https://www.linkedin.com/in/alan-borges23/)
+
